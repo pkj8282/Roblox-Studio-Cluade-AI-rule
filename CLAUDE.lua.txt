@@ -16,9 +16,6 @@
 -- 다음과 같은 MCP 를 적극 활용하기 바람.
 
 -- - Roblox Studio MCP
--- - context7 MCP
--- - sequential-thinking MCP
--- - playwright MCP
 
 -----
 
