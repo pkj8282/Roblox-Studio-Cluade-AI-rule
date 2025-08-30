@@ -1,3 +1,6 @@
+# Version
+Version 1.2
+
 # What is CLAUDE.lua?
 'CLAUDE.lua' is a rules file designed to ensure optimal performance when using the Claude AI in Roblox Studio.
 Please note that the original was designed in Korean.
@@ -15,6 +18,9 @@ MIT License
 
 -----------------------------------
 
+# 버전
+버전 1.2
+
 # CLAUDE.lua는 무엇인가요?
 'CLAUDE.lua'는 Roblox Studio에서 Claude AI를 사용할 때 최적의 성능을 보장하도록 설계된 규칙 파일입니다. 원본 파일은 한국어로 제작되었다는 점 참고 부탁드립니다.
 
@@ -27,4 +33,5 @@ txt 버전으로 다시 시도 해주세요. 만약 txt 버전에서도 실패�
 
 # 라이선스
 MIT License
+
 
