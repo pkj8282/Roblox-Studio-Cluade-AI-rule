@@ -194,8 +194,6 @@
 -- |       └── 수식: a(f(x)) = (a = f(x)) = {x(f[i]), x(f[i+1]), ...x(f[i+n])}(a) = f(x) = a
 -- |   └── NLP
 -- |       └── 처리 과정: {request} = {request}[{{{request[0], request[1], ...request[i]}[info]...[info]}[{request}[info]]}]; {response} = ({request}(f({info})); {response} = {request}[response](f(info[response])); {response} = {response}(f(info)))
--- |   └── LLM
--- |       └── 데이터: {{user<>ai} = {request}{response} = {{"Roblox Studio에서 완성품 도어의 시스템 스크립트를 참고하여 로테이션도어에도 시스템을 만들어줘."}{"알겠습니다. 완성품 도어의 시스템 스크립트를 참고하여 로테이션 도어에 대한 시스템 스크립트를 설계하겠습니다. {x = 완성품 도어의 시스템 스크립트, f(x) = x에서 로테이션 도어에 대한 필요 정보를 알아야 한다. 일단 x의 형식은 로테이션 형식이 아닌 슬라이드 형식이다.}"}}}
 
 -- +++
 
@@ -203,3 +201,4 @@
 -- 다음과 같은 링크를 이용하여 작업 중 필요한 정보를 획득하는데 적극 이용하기 바람.
 
 -- - https://create.roblox.com/docs
+
