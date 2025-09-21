@@ -17,6 +17,9 @@ In the MCP section, please apply only to the connected MCP.
 try again with the txt version.
 if the txt version fails, add the server script directly, rename it to CLAUDE.lua, copy the rule text, and apply it to the generated script.
 
+# Feedback
+Please submit feedback in the Issues section. Irrelevant comments will be removed.
+
 # License
 **MIT License**
 
@@ -59,6 +62,9 @@ MCP 부분에서는 연결한 MCP만 적용 시켜주세요.
 # 파일이 인코딩 되지 않은 상태로 생성되는 경우
 txt 버전으로 다시 시도 해주세요. 만약 txt 버전에서도 실패했다면 직접 서버 스크립트를 추가하고 이름을 CLAUDE.lua로 바꾼 다음, 규칙 텍스트를 복사하고 생성한 스크립트에 적용 해주세요.
 
+# 피드백
+피드백은 이슈 기능에서 이슈 추가로 알려주세요. 관련 없는 말은 삭제합니다.
+
 # 라이선스
 **MIT 라이선스**
 
@@ -69,6 +75,7 @@ txt 버전으로 다시 시도 해주세요. 만약 txt 버전에서도 실패�
 위의 저작권 고지 및 본 허가 고지는 소프트웨어의 모든 사본 또는 상당 부분에 포함되어야 합니다.
 
 본 소프트웨어는 상품성, 특정 목적에의 적합성 및 비침해에 대한 보증을 포함하되 이에 국한되지 않는 명시적 또는 묵시적 보증 없이 "있는 그대로" 제공됩니다. 어떠한 경우에도 저작자 또는 저작권자는 소프트웨어 또는 소프트웨어의 사용 또는 기타 거래와 관련하여 발생하는 계약, 불법 행위 또는 기타 행위에 따른 소송에서 발생하는 모든 청구, 손해 또는 기타 책임에 대해 책임을 지지 않습니다.
+
 
 
 
