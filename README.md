@@ -1,5 +1,5 @@
 # Version
-Version 1.3.4
+Version 1.3.5
 
 # What is CLAUDE.lua?
 'CLAUDE.lua' is a rules file designed to ensure optimal performance when using the Claude AI in Roblox Studio.
@@ -75,6 +75,7 @@ txt 버전으로 다시 시도 해주세요. 만약 txt 버전에서도 실패�
 위의 저작권 고지 및 본 허가 고지는 소프트웨어의 모든 사본 또는 상당 부분에 포함되어야 합니다.
 
 본 소프트웨어는 상품성, 특정 목적에의 적합성 및 비침해에 대한 보증을 포함하되 이에 국한되지 않는 명시적 또는 묵시적 보증 없이 "있는 그대로" 제공됩니다. 어떠한 경우에도 저작자 또는 저작권자는 소프트웨어 또는 소프트웨어의 사용 또는 기타 거래와 관련하여 발생하는 계약, 불법 행위 또는 기타 행위에 따른 소송에서 발생하는 모든 청구, 손해 또는 기타 책임에 대해 책임을 지지 않습니다.
+
 
 
 
