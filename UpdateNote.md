@@ -1,5 +1,5 @@
-# 버전 1.3.5 발표
-일부 LLM 학습 요소가 개발되었습니다.
+# 버전 1.4 업데이트 계획 안내
+**1**: Claude Code 전용 Roblox Studio MCP 추가 정책이 추가 됩니다. (For VScoders)
 
-# Version 1.3.5 Announcement
-Some LLM learning elements have been developed.
+# Version 1.4 Update Plan Announcement
+**1**: An additional policy for Roblox Studio MCPs exclusive to Claude Code has been added. (For VScoders)
