@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-이 파일은 이 작업공간에서을 할 때 Claude Desktop (claude.ai/code)에 대한 가이드를 제공합니다.
+이 파일은 이 작업공간에서을 할 때 (Claude Desktop, Claude Code) (claude.ai/code)에 대한 가이드를 제공합니다.
 
 ---
 
@@ -209,6 +209,14 @@ end
 |       └── 처리 과정: {request} = {request}[{{{request[0], request[1], ...request[i]}[info]...[info]}[{request}[info]]}]; {response} = ({request}(f({info})); {response} = {request}[response](f(info[response])); {response} = {response}(f(info)))
 |   └── LLM
 |       └── 데이터: {{user<>ai} = {request}{response} = {{"Roblox Studio에서 완성품 도어의 시스템 스크립트를 참고하여 로테이션도어에도 시스템을 만들어줘."}{"알겠습니다. 완성품 도어의 시스템 스크립트를 참고하여 로테이션 도어에 대한 시스템 스크립트를 설계하겠습니다. {x = 완성품 도어의 시스템 스크립트, f(x) = x에서 로테이션 도어에 대한 필요 정보를 알아야 한다. 일단 x의 형식은 로테이션 형식이 아닌 슬라이드 형식이다. 참고할 건 도어 시스템의 구조, 체계, 세팅일 것이고, 바꿔야 할 건 슬라이드(위치만 변화) 과정을 로테이션(회전) 과정으로 바꿔야 한다. 바꾸지 말아야 할 건 구조, 체계, 세팅이다. 본격적으로 형식을 바꾸기 위한 작업을 수행하자.}"}}}
+
+---
+
+# Claude Code에서 Roblox Studio MCP 사용 시 정책
+**Claude는 다음과 같은 모듈을 적용하여 Roblox Studio MCP를 사용 하도록 합니다.**
+| 모듈
+|   └── 테스트 구역 구현: t(c) = (T = {}) log t(T_n = c) (t(c) = c = t(lim_(lim_(T_n -> c) -> c)))
+|   └── 테스트 구역 추가 정책: 테스트 구역에서는 필요한 환경에 맞게 테스트 구역 구현 수식에 c 매걔변수에 테스트 할 코드와 함께 필요 환경을 조합하여 적용한 후 이를 실행 하여 안정적인 테스트를 할 수 있도록 합니다.
 
 ---
 
