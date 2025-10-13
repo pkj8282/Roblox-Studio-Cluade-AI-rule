@@ -10,3 +10,12 @@
 - [X] AI의 시뮬레이션에서 정확성이 높은가? 
 
 # Operational
+**Test Checklist**
+- [X] Does it have a significant effect on AI performance?
+- [X] Does the AI ​​execute the simulation according to the formula?
+- [X] Has the AI's hallucination phenomenon been completely eliminated?
+- [X] Does it have a suppressive effect on the AI's hallucination phenomenon?
+- [X] Are each part of the high-dimensional intelligence module functioning properly?
+- [X] Does the backup function work without fail?
+- [X] Has the accuracy of the AI ​​test improved?
+- [X] Is the accuracy of the AI ​​simulation high?
